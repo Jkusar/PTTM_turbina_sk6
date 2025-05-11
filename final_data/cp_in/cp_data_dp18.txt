@@ -1,0 +1,12 @@
+                         "Surface Integral Report"
+
+           Area-Weighted Average
+              Specific Heat (Cp)           [J/(kg K)]
+-------------------------------- --------------------
+              inlet_dome_cooling            1042.3804
+                    nozzle_inlet            9626.0517
+                      sec_air_in            1049.7017
+                   swirler_inlet            1045.2513
+                     tert_air_in            1047.8375
+                ---------------- --------------------
+                             Net            1314.2014
