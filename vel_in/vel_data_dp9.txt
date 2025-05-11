@@ -1,0 +1,12 @@
+                         "Surface Integral Report"
+
+           Area-Weighted Average
+              Velocity Magnitude                [m/s]
+-------------------------------- --------------------
+              inlet_dome_cooling            25.070445
+                    nozzle_inlet            82.862725
+                      sec_air_in            136.34554
+                   swirler_inlet            42.277116
+                     tert_air_in            147.86733
+                ---------------- --------------------
+                             Net            69.107359

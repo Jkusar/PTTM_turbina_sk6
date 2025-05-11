@@ -1,0 +1,12 @@
+                         "Surface Integral Report"
+
+           Area-Weighted Average
+              Static Temperature                  [K]
+-------------------------------- --------------------
+              inlet_dome_cooling                  523
+                    nozzle_inlet                  323
+                      sec_air_in                  523
+                   swirler_inlet                  523
+                     tert_air_in                  523
+                ---------------- --------------------
+                             Net            516.73215
