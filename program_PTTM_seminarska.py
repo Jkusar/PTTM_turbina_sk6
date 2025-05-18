@@ -7,8 +7,6 @@ Created on Sat May 10 21:46:47 2025
 
 import sys
 sys.path.append("C:/Users/Jernej Kusar/Documents/LFDT splošno/Dodiplomska/Main")
-sys.path.append("C:/Users/Jernej Kusar/Documents/LFDT splošno/Dodiplomska/Enacbe")
-sys.path.append(r"C:\Users\Jernej Kusar\Documents\LFDT splošno\Dodiplomska\Program za video\Obdelava videa (KRIŠTOF)\LFDT-Micro-jet-Analyzer-MJA-main")
 
 
 import datalib as jdl
