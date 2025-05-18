@@ -1,6 +1,0 @@
-                         "Surface Integral Report"
-
-           Area-Weighted Average
-                         Density             [kg/m^3]
--------------------------------- --------------------
-                  chamber_outlet           0.52412885

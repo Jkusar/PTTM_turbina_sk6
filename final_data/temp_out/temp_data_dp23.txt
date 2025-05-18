@@ -1,6 +1,0 @@
-                         "Surface Integral Report"
-
-           Area-Weighted Average
-              Static Temperature                  [K]
--------------------------------- --------------------
-                  chamber_outlet            543.76342

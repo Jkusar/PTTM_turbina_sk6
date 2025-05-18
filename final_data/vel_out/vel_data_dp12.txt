@@ -1,6 +1,0 @@
-                         "Surface Integral Report"
-
-           Area-Weighted Average
-              Velocity Magnitude                [m/s]
--------------------------------- --------------------
-                  chamber_outlet            17.316324
