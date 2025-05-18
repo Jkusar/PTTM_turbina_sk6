@@ -1,0 +1,6 @@
+                         "Surface Integral Report"
+
+           Area-Weighted Average
+Reactor Net Mass fraction of no2                     
+-------------------------------- --------------------
+                  chamber_outlet        1.6489472e-10
