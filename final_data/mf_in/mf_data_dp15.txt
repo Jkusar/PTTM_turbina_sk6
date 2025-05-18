@@ -1,0 +1,11 @@
+                          "Flux Report"
+
+                  Mass Flow Rate               [kg/s]
+-------------------------------- --------------------
+              inlet_dome_cooling            0.0001941
+                    nozzle_inlet              1.5e-05
+                      sec_air_in           0.00046584
+                   swirler_inlet            0.0001941
+                     tert_air_in           0.00043996
+                ---------------- --------------------
+                             Net             0.001309
